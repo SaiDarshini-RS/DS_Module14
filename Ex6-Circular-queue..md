@@ -1,5 +1,5 @@
 # 2A Dequeue Elements from Circular Queue
-## DATE: 24.04.2025
+## DATE: 5.3.2025
 ## AIM:
 To write a C program to delete three elements from the filled circular queue.
 
